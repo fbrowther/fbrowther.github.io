@@ -4,7 +4,7 @@
 (Ex) Senior Research Scientist and Aspiring Data Scientist
 
 ## Contact details:
-E-mail: Rowther.F@outlook.com & Mobile: 07713 669589
+E-mail: Rowther.F@outlook.com & Mobile: -
 
 # Summary of key research achievements:
 
