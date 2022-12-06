@@ -42,7 +42,7 @@ E-mail: Rowther.F@outlook.com & Mobile: 07713 669589
 4.	Extracting data from webpages using API
 5.	Web Scraping (Splinter, Beautiful soup) to extract data from webpages;
 6.	Flask web application to display the collected/scraped/analysed data;
-7.	Extracting data from webpages using API
+7.
 8.	Projects Portfolio -  https://github.com/fbrowther
 
 (15) Machine Learning Specialization - Data Science (Deeplearning.AI)
