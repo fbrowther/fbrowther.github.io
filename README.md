@@ -8,33 +8,33 @@ E-mail: Rowther.F@outlook.com & Mobile: 07713 669589
 
 # Summary of key research achievements:
 
-### Twenty plus years’ experience in delivering early research solutions in Life sciences including infectious diseases and cancer research.
+(1) Twenty plus years’ experience in delivering early research solutions in Life sciences including infectious diseases and cancer research.
 
-### Proven experience in publishing and presenting new research findings and solutions to industry leaders.
+(2) Proven experience in publishing and presenting new research findings and solutions to industry leaders.
 
-### Privileged board of reviewers for multidisciplinary journals to review and recommend new innovative/science based research submissions.
+(3) Privileged board of reviewers for multidisciplinary journals to review and recommend new innovative/science based research submissions.
 
-### Secured and contributed to key research projects through the competitive bidding process to work across universities, hospitals and NHS trusts.
+(4) Secured and contributed to key research projects through the competitive bidding process to work across universities, hospitals and NHS trusts.
 
-### Identified and delivered solutions to complex medical and genetic problems using innovative and novel molecular technologies. 
+(5) Identified and delivered solutions to complex medical and genetic problems using innovative and novel molecular technologies. 
 
-### Adapted innovative ways of working to deliver proof-of concept solutions in a fast and agile manner to meet the rapid new requirements.
+(6) Adapted innovative ways of working to deliver proof-of concept solutions in a fast and agile manner to meet the rapid new requirements.
 
-### Collaborated with experts across multiple disciplines to generate tangible solutions to pressing problems. 
+(7) Collaborated with experts across multiple disciplines to generate tangible solutions to pressing problems. 
 
-### Managed partnership with in-house and external clinicians, laboratory researchers and industry partners to deliver key research projects.
+(8) Managed partnership with in-house and external clinicians, laboratory researchers and industry partners to deliver key research projects.
 
-### Applied industry best practices on project management to prioritise, manage and deliver key deliverables on an agreed timescale.
+(9) Applied industry best practices on project management to prioritise, manage and deliver key deliverables on an agreed timescale.
 
-###  Always strived to innovate research strategies to include institutional initiatives in carbon neutral, health & safety, and innovation initiatives. 
+(10) Always strived to innovate research strategies to include institutional initiatives in carbon neutral, health & safety, and innovation initiatives. 
 
-### Kept up-to-date with changing landscape of knowledge and technologies within associated fields
+(11) Kept up-to-date with changing landscape of knowledge and technologies within associated fields
 
-### Managed and mentored researchers towards achieving the common goal and supported PhD students’ career roadmap.
+(12) Managed and mentored researchers towards achieving the common goal and supported PhD students’ career roadmap.
 
-### Motivated thought leader with strong people management, interpersonal skills and result oriented mindset.
+(13) Motivated thought leader with strong people management, interpersonal skills and result oriented mindset.
 
-### Practical demonstrable skills in Data Analytics/Data Visualization – 
+(14) Practical demonstrable skills in Data Analytics/Data Visualization – 
 
 1.	Python programming and the use of its libraries (Pandas, Matplotlib, NumPy, Scikit, );
 2.	SQL Databases - PostgreSQL and MongoDB with SQLAlchemy and PyMongo;
@@ -45,7 +45,7 @@ E-mail: Rowther.F@outlook.com & Mobile: 07713 669589
 7.	Extracting data from webpages using API
 8.	Projects Portfolio -  https://github.com/fbrowther
 
-### Machine Learning Specialization - Data Science (Deeplearning.AI)
+(15) Machine Learning Specialization - Data Science (Deeplearning.AI)
 
 Equipped with knowledge of practical application of the Machine Learning principles in solving complex business case studies.
 1.	Supervised Machine Learning (Linear Regression, Logistic Regression and Classification);
