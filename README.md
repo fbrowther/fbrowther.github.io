@@ -1,7 +1,7 @@
 # fbrowther.github.io
 
 # FARJANA ROWTHER, PhD
-(Ex) Senior Research Scientist and Aspiring Data Scientist
+Senior Research Scientist and Aspiring Data Scientist
 
 ## Contact details:
 E-mail: Rowther.F@outlook.com & Mobile: -
